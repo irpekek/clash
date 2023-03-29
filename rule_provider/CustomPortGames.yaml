@@ -16,6 +16,8 @@ payload:
   - DST-PORT,3478
   - DST-PORT,5060
   - DST-PORT,5062
+  #Mobile Legend
+  - DST-PORT,5506
   - DST-PORT,12000
   - DST-PORT,12001
   - DST-PORT,12002
