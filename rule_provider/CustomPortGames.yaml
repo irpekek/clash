@@ -18123,3 +18123,6 @@ payload:
   - DST-PORT,32898
   - DST-PORT,32899
   - DST-PORT,32900
+  #Roblox
+  - DOMAIN-SUFFIX,roblox.com
+  - DOMAIN-SUFFIX,rbxcdn.com
