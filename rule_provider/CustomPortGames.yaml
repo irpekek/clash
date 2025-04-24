@@ -18126,3 +18126,6 @@ payload:
   #Roblox
   - DOMAIN-SUFFIX,roblox.com
   - DOMAIN-SUFFIX,rbxcdn.com
+  #Nikke
+  - DOMAIN-SUFFIX,truekex.com
+  - DOMAIN-SUFFIX,nikke-kr.com
